@@ -1,3 +1,3 @@
 # Space Challenge
 
-This just file for practice and understnading the structure, code taken from Github resorces.
+This is just a repositiory for practice and understnading the structure, code taken from Github resorces.
